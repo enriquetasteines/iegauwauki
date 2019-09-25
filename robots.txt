@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohlaeyaic.trezy.stream/sitemap.xml
